@@ -99,7 +99,7 @@ We welcome contributions to the M2MOE project! To contribute:
 - **GitHub Issues**: [Submit issues](https://github.com/MMVAT/M2MOE/issues)
 - **Discussions**: [Join discussions](https://github.com/MMVAT/M2MOE/discussions)
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 We extend our gratitude to the following organizations and research groups:
 
