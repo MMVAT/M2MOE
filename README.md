@@ -1,5 +1,5 @@
-# 🚀 Modality-Specific and Modality-Interaction Enhanced Mixture of Experts for Imbalanced Audio-Visual Video Parsing Learning
-This is the official code for the Modality-Specific and Modality-Interaction Enhanced Mixture of Experts for Imbalanced Audio-Visual Video Parsing Learning.
+# 🚀 Interaction-Guided Mixture of Experts for  Weakly Supervised Imbalanced Audio-Visual Video Parsing
+This is the official code for the Interaction-Guided Mixture of Experts for  Weakly Supervised Imbalanced Audio-Visual Video Parsing.
 
 ![image](https://github.com/MMVAT/M2MOE/blob/main/arch.png?raw=true)
 
